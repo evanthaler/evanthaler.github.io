@@ -58,7 +58,7 @@ permalink: /research/
 <ul>
   <li><a href="https://www.npr.org/2021/02/24/967376880/new-evidence-shows-fertile-soil-gone-from-midwestern-farm"><b>NPR</b></a>
 </li>
-  <li><a href="https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/><b>Smithsonian Magazine</b></a>
+  <li><a href="https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/"><b>Smithsonian Magazine</b></a>
 </li>
 </ul>
 
