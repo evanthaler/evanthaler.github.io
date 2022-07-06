@@ -39,8 +39,8 @@ permalink: /research/
 		<br /> 
 
 
-	<figure alt="Grid" style="width:600px;height:600px;margin-right:15px;float:left;padding-right:20px;padding-bottom:170px">
-		<img src="./assets/research/Fig2_revised.jpg">
+	<figure alt="Grid" style="width:300px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:170px">
+		<img src="/assets/research/Fig2_revised.jpg">
 		<figcaption style="text-align:justify">
 			<b>Fig. 2</b> We can make estimates of how common this pattern is across the Corn Belt.
 		</figcaption>			
@@ -68,7 +68,7 @@ permalink: /research/
 	<img src="/assets/research/prairieExample.jpg">
 	<figcaption style="text-align:justify">
 		<b>Fig. 3</b> Example of an erosional escarpment (miniature cliff) developed at the boundary between the prairie and the agricultural field. 
-		At this spot, there has been about 70 cm of soil removed over the last 160 years! That is around 4 mm/yr of erosion, which is way faster than the rate that new healthy soil is made. 
+		At this spot, there has been about 70 cm of soil removed over the last 160 years! That is around 4 mm/yr of erosion, which is much faster than the rate that new healthy soil is made. 
 	</figcaption>			
 	</figure>
 	
