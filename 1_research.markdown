@@ -40,7 +40,7 @@ permalink: /research/
 
 
 	<figure alt="Grid" style="width:300px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:170px">
-		<img src="./assets/research/sociCurv.png">
+		<img src="./assets/research/socivurv.jng">
 		<figcaption style="text-align:justify">
 			<b>Fig. 2</b> We can make estimates of how common this pattern is across the Corn Belt.
 		</figcaption>			
@@ -51,10 +51,8 @@ permalink: /research/
 
 <h1><b>How much topsoil has been eroded?</b></h1>
     <p style="text-align:justify">
-	Remote sensing can help us understand the spatial extent of soil erosion, but it's pretty difficult to measure the depth of soil loss from satellite imagery alone. 
-	Prairie grasslands used to cover the midwestern US landscape, but now only a tiny fraction of these native prairies remain. Because erosion in the fields is way faster
-	than erosion in the unfarmed prairies, soil gets removed from the fields, and right at the bounday between the prairie and the field, 
-	an <a href = "https://www.npr.org/2021/02/24/967376880/new-evidence-shows-fertile-soil-gone-from-midwestern-farms"><b>NPR</b></a> and in the <a href = "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/"><b>Smithsonian Magazine</b></a> 
+	One of the main differences between topsoil (what scientists call A-horizon) and subsoil (B-horizon) is the amount of soil organic carbon in the soil. 
+	<a href = "https://www.npr.org/2021/02/24/967376880/new-evidence-shows-fertile-soil-gone-from-midwestern-farms"><b>NPR</b></a> and in the <a href = "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/"><b>Smithsonian Magazine</b></a> 
 	
 	<p>
 	<br />
