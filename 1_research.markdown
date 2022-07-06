@@ -28,6 +28,7 @@ permalink: /research/
 		</figcaption>
 	</figure>
 
+
 	<p style="text-align:justify">
 		Satellite imagery (Fig. 1) of recently plowed agricultural fields shows a consistent pattern where light soils 
 		are located on hilltops and dark soils are located in hollows (topographic lows). 
@@ -42,7 +43,7 @@ permalink: /research/
 	<figure alt="Grid" style="width:500px;height:300px;margin-right:15px;float:right;padding-right:20px;padding-bottom:170px">
 		<img src="/assets/research/Fig4_revised.jpg">
 		<figcaption style="text-align:justify">
-			<b>Fig. 3</b> Maps of a) state-level esimates of topsoil erosion (black numbers) and annual economic losses (green numbers). b) County-level estimates of topsoil erosion. c) Decrease in annual crop yields caused by topsoil erosion, and d) the annual loss per farm within each county. 
+			<b>Fig. 2</b> Maps of a) state-level esimates of topsoil erosion (black numbers) and annual economic losses (green numbers). b) County-level estimates of topsoil erosion. c) Decrease in annual crop yields caused by topsoil erosion, and d) the annual loss per farm within each county. 
 		</figcaption>			
 	</figure>
 	<p>
@@ -51,7 +52,7 @@ permalink: /research/
 
 <h1><b>How much topsoil has been eroded?</b></h1>
     <p style="text-align:justify">
-	One of the main differences between topsoil (what scientists call A-horizon) and subsoil (B-horizon) is the amount of soil organic carbon in the soil. We used the relationship between topography (hilltops and hollows) and the satellite-derived estimate of soil organic carbon to estimate how much topsoil has been eroded across the U.S. Corn Belt (Figure 3). Erosion of that organic-rich topsoil causes crops to be less productive. When crops are less productive, farmers lose money. We made some rough estimates of the annual economic losses to farmers (Figure 3d).(<a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>Thaler et al., 2021</b></a>)
+	One of the main differences between topsoil (what scientists call A-horizon) and subsoil (B-horizon) is the amount of soil organic carbon in the soil. We used the relationship between topography (hilltops and hollows) and the satellite-derived estimate of soil organic carbon to estimate how much topsoil has been eroded across the U.S. Corn Belt (Figure 2). Erosion of that organic-rich topsoil causes crops to be less productive. When crops are less productive, farmers lose money. We made some rough estimates of the annual economic losses to farmers (Figure 2d).(<a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>Thaler et al., 2021</b></a>)
 	<a href = "https://www.npr.org/2021/02/24/967376880/new-evidence-shows-fertile-soil-gone-from-midwestern-farms"><b>NPR</b></a> and in the <a href = "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/"><b>Smithsonian Magazine</b></a> 
 	
 	<p>
