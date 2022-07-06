@@ -52,7 +52,7 @@ permalink: /research/
 
 <h1><b>How much topsoil has been eroded?</b></h1>
     <p style="text-align:justify">
-	One of the main differences between topsoil (what scientists call A-horizon) and subsoil (B-horizon) is the amount of soil organic carbon in the soil. We used the relationship between topography (hilltops and hollows) and the satellite-derived estimate of soil organic carbon to estimate how much topsoil has been eroded across the U.S. Corn Belt (Figure 2). Erosion of that organic-rich topsoil causes crops to be less productive. When crops are less productive, farmers lose money. We made some rough estimates of the annual economic losses to farmers across the region(<a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>Thaler et al., 2021</b></a>). See some of the media coverage of this work:
+	One of the main differences between topsoil (what scientists call A-horizon) and subsoil (B-horizon) is the amount of organic carbon in the soil. We used the relationship between topography (hilltops and hollows) and the satellite-derived estimate of soil organic carbon to estimate how much topsoil has been eroded across the U.S. Corn Belt (Figure 2). Erosion of that organic-rich topsoil causes crops to be less productive. When crops are less productive, farmers lose money. We made some rough estimates of the annual economic losses to farmers across the region (<a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>Thaler et al., 2021</b></a>). See some of the media coverage of this work:
 <ul>
   <li><a href="https://www.npr.org/2021/02/24/967376880/new-evidence-shows-fertile-soil-gone-from-midwestern-farm"><b>NPR</b></a>
 </li>
@@ -74,7 +74,7 @@ permalink: /research/
 	<img src="/assets/research/prairieExample.jpg">
 	<figcaption style="text-align:justify">
 		<b>Fig. 3</b> Example of an erosional escarpment (miniature cliff) developed at the boundary between the prairie and the agricultural field. 
-		At this spot, there has been about 70 cm of soil removed over the last 160 years! That is around 4 mm/yr of erosion, which is much faster than the rate that new healthy soil is made. 
+		At this spot, there has been about 70 cm of soil removed over the last 160 years! That's around 4 mm/yr of erosion, which is much faster than the rate that new healthy soil is made. 
 	</figcaption>			
 	</figure>
 	<p>
