@@ -49,14 +49,15 @@ permalink: /research/
 	<br />
 	
 
-<h1><b>Field measurements of erosion</b></h1>
+<h1><b>How much topsoil has been eroded?</b></h1>
     <p style="text-align:justify">
 	Remote sensing can help us understand the spatial extent of soil erosion, but it's pretty difficult to measure the depth of soil loss from satellite imagery alone. 
 	Prairie grasslands used to cover the midwestern US landscape, but now only a tiny fraction of these native prairies remain. Because erosion in the fields is way faster
 	than erosion in the unfarmed prairies, soil gets removed from the fields, and right at the bounday between the prairie and the field, 
-	an <a href = "https://en.wikipedia.org/wiki/Escarpment"><b>erosional escarpment</b></a> develops. 
+	an <a href = "https://www.npr.org/2021/02/24/967376880/new-evidence-shows-fertile-soil-gone-from-midwestern-farms"><b>NPR</b></a> and in the <a href = "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/"><b>Smithsonian Magazine</b></a> 
 	
-	
+	<p>
+	<br />
 	
 <h1><b>Field measurements of erosion</b></h1>
 	<p style="text-align:justify">
