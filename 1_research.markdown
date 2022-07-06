@@ -10,8 +10,6 @@ permalink: /research/
 </head>
 <body>
 
-<a href="/research/permafrost"><b>Permafrost research</b></a>
-
 
 <h1><b>Detecting soil erosion from space</b></h1>
 	<p style="text-align:justify">
