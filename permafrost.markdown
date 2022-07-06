@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Permafrost research
+permalink: /research/permafrost/
 ---
 <html>
 <head>
