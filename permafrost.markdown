@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Permafrost research
 permalink: /research/permafrost/
 ---
