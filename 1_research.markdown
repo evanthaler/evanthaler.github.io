@@ -40,7 +40,7 @@ permalink: /research/
 		<br /> 
 
 
-	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:260px">
+	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:300px">
 		<img src="/assets/research/Fig4_revised.jpg">
 		<figcaption style="text-align:justify">
 			<b>Fig. 2</b> Maps of a) state-level esimates of topsoil erosion (black numbers) and annual economic losses (green numbers). b) County-level estimates of topsoil erosion. c) Decrease in annual crop yields caused by topsoil erosion, and d) the annual loss per farm within each county. 
