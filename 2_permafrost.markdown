@@ -17,3 +17,19 @@ Okay I'm still working on this section of my website. But, for now I'll ask you 
 	</p>
 
 
+	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:300px">
+		<img src="/assets/research/VallesCombined.jpeg">
+		<figcaption style="text-align:justify">
+			<b>Fig. 1</b> 
+		</figcaption>			
+	</figure>
+	<p>
+	
+	
+	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:300px">
+		<img src="/assets/research/ASO_v1.jpeg">
+		<figcaption style="text-align:justify">
+			<b>Fig. 2</b> M
+		</figcaption>			
+	</figure>
+	<p>
