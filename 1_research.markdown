@@ -40,7 +40,7 @@ permalink: /research/
 
 
 	<figure alt="Grid" style="width:300px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:170px">
-		<img src="./assets/research/socicurv.jpg">
+		<img src="./assets/research/Fig2_revised.jpg">
 		<figcaption style="text-align:justify">
 			<b>Fig. 2</b> We can make estimates of how common this pattern is across the Corn Belt.
 		</figcaption>			
