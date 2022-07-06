@@ -68,7 +68,7 @@ permalink: /research/
 	<img src="/assets/research/prairieExample.jpg">
 	<figcaption style="text-align:justify">
 		<b>Fig. 3</b> Example of an erosional escarpment (miniature cliff) developed at the boundary between the prairie and the agricultural field. 
-		At this spot, there has been about 70 cm of soil removed over the last 160 years!
+		At this spot, there has been about 70 cm of soil removed over the last 160 years! That is around 4 mm/yr of erosion, which is way faster than the rate that new healthy soil is made. 
 	</figcaption>			
 	</figure>
 	
