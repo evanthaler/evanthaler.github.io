@@ -10,7 +10,7 @@ permalink: /permafrostresearch/
 </head>
 <body>
 
-	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:300px">
+	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:100px">
 		<img src="/assets/research/VallesCombined.jpeg">
 		<figcaption style="text-align:justify">
 			<b>Fig. 1</b> Example of estimating snow cover using only the blue wavelength. The image on the left is the actual satellite photo showing snow as white areas. The middle image is the Landsat 8 fractional snow covered area, which estimates the percentage of snow cover within a given pixel. The image on the right is the estimate snow covered area using our method, where blue pixels are predicted to be snow covered. 
@@ -38,7 +38,7 @@ We compared the extent of snow covered area predicted by just using the blue wav
 	</figure>
 	<p>
 	
-
+<h1><b>Using machine learning to identify permafrost areas</b></h1>
 	
 	
 	
