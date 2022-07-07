@@ -68,7 +68,18 @@ permalink: /midwestresearch/
 	Remote sensing can help us understand the spatial extent of soil erosion, but it's pretty difficult to measure the depth of soil loss from satellite imagery alone. 
 	Prairie grasslands used to cover the midwestern US landscape, but now only a tiny fraction of these native prairies remain. Because erosion in the fields is way faster
 	than erosion in the unfarmed prairies, soil gets removed from the fields, and right at the bounday between the prairie and the field, 
-	an <a href = "https://en.wikipedia.org/wiki/Escarpment"><b>erosional escarpment</b></a> develops. 
+	an <a href = "https://en.wikipedia.org/wiki/Escarpment"><b>erosional escarpment</b></a> develops. We used a high-resolution GPS unit to measure the height of these escarpments at 20 prairies across the Corn Belt, and found that the average erosion rate across all of the sites is 1.9 mm/yr. That rate is nearly double what the U.S. Department of Agriculture considers "tolerable." You can read more about this research in our paper (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021EF002396"><b>Thaler et al., 2022</b></a>).
+See some of the media coverage of this work:
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=iJVQGOzJgyw"><b>CNBC</b></a>
+</li>
+  <li><a href="https://www.smithsonianmag.com/smart-news/57-billion-tons-of-top-soil-have-eroded-in-the-midwest-in-the-last-160-years-180979936/"><b>Smithsonian Magazine</b></a>
+</li>
+</ul>
+
+	</p>
+	<br />
+
 	
 	<figure alt="Grid" style="width:300px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:170px">
 	<img src="/assets/research/prairieExample.jpg">
