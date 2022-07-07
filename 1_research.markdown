@@ -13,7 +13,7 @@ permalink: /midwestresearch/
 
 <h1><b>Detecting soil erosion from space</b></h1>
 	<p style="text-align:justify">
-		I use satellite imagery and high-resolution topographic data to investigate processes that shape the Earth's surface. The use of these type of data is called "remote sensing,"
+		A large porition of my research involves using satellite imagery and high-resolution topographic data to investigate processes that shape the Earth's surface. The use of these type of data is called "remote sensing,"
 		which is just a fancy way of saying that we make observations and measurements without actually handling physical samples. Some of my research involves using remote sensing techniques to
 		study how modern farming practices have altered soils.
 	</p>
