@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial analysis codes
+title: Teaching
 permalink: /codes/
 ---
 <html>

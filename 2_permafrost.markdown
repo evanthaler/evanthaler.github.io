@@ -20,7 +20,10 @@ permalink: /permafrostresearch/
 	
 <h1><b>Estimating snow cover using satellites</b></h1>
 	<p style="text-align:justify">
-Why are we interested in detecting snow? Snow is a pretty integral component of the global climate system. First, fresh snow is really bright (a property we would call high albedo). That high albedo reflects a lot of the radiation from the sun, which can regulate the land temperature. Snow melt is also a dominant source of water in many regions across the planet. My interest in snow is its influence on permafrost soils. It might seem counterintuitive, but snow actually insulates the ground during winter and keeps the ground warmer than the cold air temperature. The insulating effect can cause soils to not refreeze during the winter, which can cause degradation or thawing of permafrost. So, we want to know where snow is the thickest or hangs out the longest on the landscape, especially in tundra ecosystems, so we can investigate the impact of snow on permafrost freezing/thawing. It turns out that snow is has high reflectance (is really bright) in the blue wavelengths, so we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. 
+Why are we interested in detecting snow? Snow is a pretty integral component of the global climate system. First, fresh snow is really bright (a property we would call high albedo). That high albedo reflects a lot of the radiation from the sun, which can regulate the land temperature. Snow melt is also a dominant source of water in many regions across the planet. My interest in snow is its influence on permafrost soils. 
+    </p>
+    <p>
+It might seem counterintuitive, but snow actually insulates the ground during winter and keeps the ground warmer than the cold air temperature. The insulating effect can cause soils to not refreeze during the winter, which can cause degradation or thawing of permafrost. So, we want to know where snow is the thickest or hangs out the longest on the landscape, especially in tundra ecosystems, so we can investigate the impact of snow on permafrost freezing/thawing. It turns out that snow is has high reflectance (is really bright) in the blue wavelengths, which means we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. 
 	</p>
 
 
