@@ -13,7 +13,7 @@ permalink: /permafrostresearch/
 	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:100px">
 		<img src="/assets/research/bst_example.png">
 		<figcaption style="text-align:justify">
-			<b>Fig. 1</b> Example of estimating snow cover using only the blue wavelength. The images on the left is the actual satellite photo showing snow as white areas. The middle image panels show the distribution of blue reflectance values, and the threshold value for each image. The images on the right show the (You can open the image in a new tab to view a larger version)
+			<b>Fig. 1</b> Example of estimating snow cover using only the blue wavelength. The images on the left are the actual (true-color) satellite photo showing snow as white areas. The middle image panels show the distribution of blue reflectance values, and the threshold value for each image. The images on the right show the (You can open the image in a new tab to view a larger version)
 		</figcaption>			
 	</figure>
 	<p>
