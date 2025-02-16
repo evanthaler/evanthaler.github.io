@@ -26,14 +26,6 @@ First of all what is permafrost? Strictly, permafrost is any ground that is froz
 We wanted to test how well different machine learning architectures (models) can be trained to make maps of near-surface permafrost extent. For ground truth data, we used some geohysical measurements and other observations like soil pits and frost probes. We used lidar point clouds to make models of the vegetation height across the landscape, digital elevation models, and several topographic metrics for each of the sites. We also used high-resolution satellite imagery to map out the vegetation greenness using a metric called the normalized difference vegetation index (NDVI) and also used our Blue Snow Threshold to make an estimate of snow-cover duration for every pixel across the study sites. We used all ofthose remote sensing data and the ground truth observations to train a random forest model (ERTr), a support vector machine model (SVM), and an artifical neural network model. We also want to know how well a model trained at one site can predict permafrost extent at a site the model hasn't seen before (this is model transferrability). Since we have three sites, we tested transferability by training the model on a combination of two sites and then testing that trained model on the third site. 
     </p>
     <p>
-
-
-<h1><b>How well did the models do?</b></h1>
-	<p style="text-align:justify">
-The random forest models did the best job at predicting permafrost extent for sites that the model had seen (what we call at-a-site prediction), with accuracies up to 83%. But, those models didn't transfer that well to sites it hadn't seen. The support vector machines were the better performing architecture for the transferred models, getting accuracies up to 78%. Turns out, with the right set of features and enough ground truth training data, machine learning does pretty darn well at mapping near-surface permafrost. 
-	</p>
-	
-	
 	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:300px">
 		<img src="/assets/research/mlmaps.jpg">
 		<figcaption style="text-align:justify">
@@ -41,6 +33,13 @@ The random forest models did the best job at predicting permafrost extent for si
 		</figcaption>			
 	</figure>
 	<p>
+
+<h1><b>How well did the models do?</b></h1>
+	<p style="text-align:justify">
+The random forest models did the best job at predicting permafrost extent for sites that the model had seen (what we call at-a-site prediction), with accuracies up to 83%. But, those models didn't transfer that well to sites it hadn't seen. The support vector machines were the better performing architecture for the transferred models, getting accuracies up to 78%. Turns out, with the right set of features and enough ground truth training data, machine learning does pretty darn well at mapping near-surface permafrost. 
+	</p>
+	
+	
 	<figure alt="Grid" style="width:450px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-top:35px">
 		<img src="/assets/research/featureimportance.jpg">
 		<figcaption style="text-align:justify">
