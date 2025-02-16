@@ -10,20 +10,20 @@ permalink: /pfml/
 </head>
 <body>
 
-	<figure alt="Grid" style="width:450px;height:300px;margin-right:15px;float:left;padding-right:20px;padding-bottom:100px">
+	<figure alt="Grid" style="width:450px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-bottom:100px">
 		<img src="/assets/research/permafroststudyarea.jpg">
 		<figcaption style="text-align:justify">
-			<b>Fig. 1</b> Here are the areas on the Seward Peninsula in Alaska where we used field and remote sensing data to map the extent of near-surface permafrost. The photos show the kinf of vegetation we see at the sites. Those shrubs can be seen in the Lidar point cloud data by making models of the canopy. (You can open the image in a new tab to view a larger version)
+			<b>Fig. 1</b> Here are the areas on the Seward Peninsula in Alaska where we used field and remote sensing data to map the extent of near-surface permafrost. The photos show the type of vegetation we see at the sites. Those shrubs can be seen in the Lidar point cloud data by making models of the canopy. (You can open the image in a new tab to view a larger version)
 		</figcaption>			
 	</figure>
 	<p>
 	
 <h1><b>Using machine learning models to make high-resolution maps of permafrost extent</b></h1>
 	<p style="text-align:justify">
-Why are we interested in detecting snow? Snow is a pretty integral component of the global climate system. First, fresh snow is really bright (a property we would call high albedo). That high albedo reflects a lot of the radiation from the sun, which can regulate the land temperature. Snow melt is also a dominant source of water in many regions across the planet.  
+First of all what is permafrost? Strictly, permafrost is any ground that is frozen for two at least two consecutive years. In our work, we only consider the permfrost within the upper 120 cm of the ground surface, which we call "near-surface permafrost." We're interested in making high-resolution maps ( <5 m spatial resolution) because 1) when permafrost thaws, the ground can sink rapidly and cause damage to nearby or overlying infrastructure, and 2) permfrost soils hold a ton of carbon which can be released during thaw, and we want to know how much of the landscape has already thawed. 
     </p>
     <p>
-My interest in snow is its influence on permafrost soils. It might seem counterintuitive, but snow actually insulates the ground during winter and keeps the ground warmer than the cold air temperature. The insulating effect can cause soils to not refreeze during the winter, which can cause degradation or thawing of permafrost. We want to know where snow is the thickest or hangs out the longest on the landscape, especially in tundra ecosystems, so we can investigate the impact of snow on permafrost freezing/thawing. 
+We wanted to test how well machine learning models can be trained to make maps of near-surface permafrost extent. For ground truth data, we used some geohysical measurements and other observations like soil pits and frost probes. 
     </p>
     <p>
 It turns out that snow is has high reflectance (is really bright) in the blue wavelengths. We developed an algorithm called the Blue Snow Threshold algorithm, which dynamically sets a threshold blue reflectance value to separate snow and non-snow pixels (Figure 1). Now, because we are only using blue wavelengths, we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. 
