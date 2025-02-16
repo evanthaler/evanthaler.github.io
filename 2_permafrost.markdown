@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Permafrost research
-permalink: /permafrostresearch/
+title: Snow remote sensing
+permalink: /snowremotesensing/
 ---
 <html>
 <head>
@@ -32,7 +32,7 @@ It turns out that snow is has high reflectance (is really bright) in the blue wa
 
 <h1><b>Validating our snow cover estimates</b></h1>
 	<p style="text-align:justify">
-We compared the extent of snow covered area predicted by just using the blue wavelength to snow cover estimates from Landat 8, which uses many different wavelengths and to snow covered area measured with repeat lidar scans (Figure 2). <a href="https://oceanservice.noaa.gov/facts/lidar.html#:~:text=Lidar%2C%20which%20stands%20for%20Light,variable%20distances)%20to%20the%20Earth."><b>Lidar</b></a> is a fancy laser range finder attached to an airplane or helicopter. We found that just using the blue wavelengths works really well and is really easy to do!
+We compared the extent of snow covered area predicted by just using the blue wavelength to snow cover estimates from Landat 8, which uses many different wavelengths and to snow covered area measured with repeat lidar scans (Figure 2). <a href="https://oceanservice.noaa.gov/facts/lidar.html#:~:text=Lidar%2C%20which%20stands%20for%20Light,variable%20distances)%20to%20the%20Earth."><b>Lidar</b></a> is a fancy laser range finder attached to an airplane or helicopter. We found that just using the blue wavelengths works really well and is really easy to do! You can read more about our method in the paper published in Remote Sensing of Environment (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425722005090"><b>Thaler et al., 2023</b></a>). 
 	</p>
 	
 	
@@ -44,6 +44,5 @@ We compared the extent of snow covered area predicted by just using the blue wav
 	</figure>
 	<p>
 	
-<h1><b>Using machine learning to identify permafrost areas</b></h1>
-	Coming soon!
+
 	
