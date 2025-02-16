@@ -41,13 +41,6 @@ The random forest models did the best job at predicting permafrost extent for si
 		</figcaption>			
 	</figure>
 	<p>
-
-<h1><b>Which features are the most important to have for prediction?</b></h1>
-	<p style="text-align:justify">
-A very cool aspect of machine learning is learning which of the features (in this case remote sensing variables) are the most really driving the prediction. We call these the important features. At these sites, NDVI is consistently one of the most important features, probably because plants are sensitive to the soil conditions and are a good indicator of frozen versus unfrozen soil. If you want to dig deeper into how we built and interpret these models, check out the paper published in Earth and Space Science (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003015"><b>Thaler et al., 2023</b></a>).
-	</p>
-
-
 	<figure alt="Grid" style="width:450px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-top:35px">
 		<img src="/assets/research/featureimportance.jpg">
 		<figcaption style="text-align:justify">
@@ -55,4 +48,11 @@ A very cool aspect of machine learning is learning which of the features (in thi
 		</figcaption>			
 	</figure>
 	<p>
+<h1><b>Which features are the most important to have for prediction?</b></h1>
+	<p style="text-align:justify">
+A very cool aspect of machine learning is learning which of the features (in this case remote sensing variables) are the most really driving the prediction. We call these the important features. At these sites, NDVI is consistently one of the most important features, probably because plants are sensitive to the soil conditions and are a good indicator of frozen versus unfrozen soil. If you want to dig deeper into how we built and interpret these models, check out the paper published in Earth and Space Science (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003015"><b>Thaler et al., 2023</b></a>).
+	</p>
+
+
+
 
