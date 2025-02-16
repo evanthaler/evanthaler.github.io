@@ -27,8 +27,6 @@ We wanted to test how well different machine learning architectures (models) can
     </p>
     <p>
 
-	</p>
-
 
 <h1><b>How well did the models do?</b></h1>
 	<p style="text-align:justify">
