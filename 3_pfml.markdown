@@ -10,7 +10,7 @@ permalink: /pfml/
 </head>
 <body>
 
-	<figure alt="Grid" style="width:450px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-bottom:100px">
+	<figure alt="Grid" style="width:450px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-bottom:300px">
 		<img src="/assets/research/permafroststudyarea.jpg">
 		<figcaption style="text-align:justify">
 			<b>Fig. 1</b> Here are the areas on the Seward Peninsula in Alaska where we used field and remote sensing data to map the extent of near-surface permafrost. The photos show the type of vegetation we see at the sites. Those shrubs can be seen in the Lidar point cloud data by making models of the canopy. (You can open the image in a new tab to view a larger version)
