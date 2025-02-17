@@ -33,6 +33,13 @@ We wanted to test how well different machine learning architectures (models) can
 		</figcaption>			
 	</figure>
 	<p>
+<figure alt="Grid" style="width:300px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-top:35px">
+		<img src="/assets/research/featureimportance.jpg">
+		<figcaption style="text-align:justify">
+			<b>Fig. 1</b>  Feature importances for the random forest (ERTr) and support vector machine (SVM) models for each of the three sites. The larger the bar, the more important the feature. Yep, NDVI is a pretty important feature to include in models of permafrost extent, at least for these sites. (You can open the image in a new tab to view a larger version)
+		</figcaption>			
+	</figure>
+	<p>
 
 <h1><b>How well did the models do?</b></h1>
 	<p style="text-align:justify">
@@ -43,13 +50,6 @@ The random forest models did the best job at predicting permafrost extent for si
 A very cool aspect of machine learning is learning which of the features (in this case remote sensing variables) are the most really driving the prediction. We call these the important features. At these sites, NDVI is consistently one of the most important features, probably because plants are sensitive to the soil conditions and are a good indicator of frozen versus unfrozen soil. If you want to dig deeper into how we built and interpret these models, check out the paper published in Earth and Space Science (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003015"><b>Thaler et al., 2023</b></a>).
 	</p>	
 	
-<figure alt="Grid" style="width:300px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-top:35px">
-		<img src="/assets/research/featureimportance.jpg">
-		<figcaption style="text-align:justify">
-			<b>Fig. 1</b>  Feature importances for the random forest (ERTr) and support vector machine (SVM) models for each of the three sites. The larger the bar, the more important the feature. Yep, NDVI is a pretty important feature to include in models of permafrost extent, at least for these sites. (You can open the image in a new tab to view a larger version)
-		</figcaption>			
-	</figure>
-	<p>
 
 
 
