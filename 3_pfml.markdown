@@ -34,7 +34,7 @@ We wanted to test how well different machine learning architectures (models) can
     </p>
     <p>
 
-<figure alt="Grid" style="width:300px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-top:35px">
+<figure alt="Grid" style="width:300px;height:200px;margin-right:15px;float:left;padding-right:20px;padding-top:0px">
 		<img src="/assets/research/featureimportance.jpg">
 		<figcaption style="text-align:justify">
 			<b>Fig. 1</b>  Feature importances for the random forest (ERTr) and support vector machine (SVM) models for each of the three sites. The larger the bar, the more important the feature. Yep, NDVI is a pretty important feature to include in models of permafrost extent, at least for these sites. (You can open the image in a new tab to view a larger version)
